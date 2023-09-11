@@ -8,3 +8,4 @@
 6- git log 
 7- git commit --amend
 8- git checkout -b ramma-avengers
+9- git checkout master
